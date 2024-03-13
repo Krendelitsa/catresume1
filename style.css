@@ -1,0 +1,10 @@
+.img-right {
+    transform: rotate(270deg);
+}
+
+h1 {
+    color: #a52a2a;
+    font-size: 24pt;
+    font-family: Georgia, Times, serif;
+    font-weight: normal;
+}
